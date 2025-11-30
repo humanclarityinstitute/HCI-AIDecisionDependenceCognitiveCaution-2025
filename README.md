@@ -15,9 +15,9 @@ Part of the Human Clarity Institute’s **AI–Human Experience Data Series**, d
 
 ## Repository / Access Links
 
-**GitHub:** https://github.com/humanclarityinstitute/HCI-AIDecisionDependenceCognitiveCaution-2025 
-**Zenodo:** https://doi.org/10.5281/zenodo.17772518
-**Figshare:** https://doi.org/10.6084/m9.figshare.30747542  
+**GitHub:** https://github.com/humanclarityinstitute/HCI-AIDecisionDependenceCognitiveCaution-2025   
+**Zenodo:** https://doi.org/10.5281/zenodo.17772518    
+**Figshare:** https://doi.org/10.6084/m9.figshare.30747542   
 
 This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-term preservation.
 
@@ -195,3 +195,4 @@ Attribution text:
 Email: info@humanclarityinstitute.com  
 Website: https://humanclarityinstitute.com/  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+

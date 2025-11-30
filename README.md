@@ -26,7 +26,8 @@ This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-te
 # 1. Citation
 
 **APA:**  
-Human Clarity Institute. (2025). *AI Decision Dependence & Cognitive Caution 2025* [Data set]. https://doi.org/10.5281/zenodo.17772518
+Human Clarity Institute. (2025). *AI Decision Dependence & Cognitive Caution 2025* [Data set]. https://doi.org/10.5281/zenodo.17772518    
+
 **BibTeX**  
 ```bibtex
 @dataset{hci_ai_decision_dependence_cognitive_caution_2025,
@@ -195,4 +196,5 @@ Attribution text:
 Email: info@humanclarityinstitute.com  
 Website: https://humanclarityinstitute.com/  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
 
